@@ -1,1 +1,1 @@
-# cc-fraud_detection_app
+# CreditCard-fraud_detection_app
